@@ -9,4 +9,4 @@ Hi my name is Alya Hilou and I am 14 years old and I go to Chatsworth High Schoo
  This is my spotify playlist. - [My Favorite Song](https://open.spotify.com/playlist/1kIlqM7lAP9vDZtW2Pchhb?si=IRmYJXj8ROis71hAltycpQ&utm_source=native-share-menu&pi=zPgtiGwqSayuV)
 
  ## Photo collage 
- 
+ ![Its a picture of me, myfriends,myfamily, and my favorite snacks](picture.png)
